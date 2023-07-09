@@ -1,5 +1,5 @@
 # Python Django Tutorial for Beginners
 
-# Authored by: Mosh
+## Authored by: Mosh
 
-# Followed by: Ely
+### Followed by: Ely
